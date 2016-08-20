@@ -90,7 +90,7 @@ h1 {
 
 /* line 26, ../sass/style.scss */
 .header {
-  padding: 1em 0 2em;
+  padding: 1em 0 1em;
 }
 /* line 29, ../sass/style.scss */
 .header h1 {
@@ -102,9 +102,9 @@ h1 {
   -moz-box-shadow: 0 0 0px 3px #fff, 0 0 0 4px #ccc, 0 4px 6px #333;
   -webkit-box-shadow: 0 0 0px 3px #fff, 0 0 0 4px #ccc, 0 4px 6px #333;
   box-shadow: 0 0 0px 3px #fff, 0 0 0 4px #ccc, 0 4px 6px #333;
-  -moz-border-radius: 50px;
-  -webkit-border-radius: 50px;
-  border-radius: 50px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
   width: 100px;
   height: 100px;
 }
@@ -124,7 +124,7 @@ h1 {
 /* line 53, ../sass/style.scss */
 .content,
 .footer {
-  padding: 4em 0 6em;
+  padding: 2em 0 6em;
 }
 
 /* line 58, ../sass/style.scss */
