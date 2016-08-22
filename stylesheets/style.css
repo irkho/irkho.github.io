@@ -210,3 +210,14 @@ h1 {
 .fa.fa-facebook:hover {
   background: #3b5998;
 }
+
+/* Github */
+/* line 116, ../sass/style.scss */
+.fa.fa-github {
+  color: #222222;
+}
+
+/* line 117, ../sass/style.scss */
+.fa.fa-github:hover {
+  background: #222222;
+}
