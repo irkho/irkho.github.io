@@ -221,3 +221,14 @@ h1 {
 .fa.fa-github:hover {
   background: #222222;
 }
+
+/* Sebangsa */
+/* line 119, ../sass/style.scss */
+.fa.fa-users {
+  color: #79ab34;
+}
+
+/* line 119, ../sass/style.scss */
+.fa.fa-users:hover {
+  background: #79ab34;
+}
